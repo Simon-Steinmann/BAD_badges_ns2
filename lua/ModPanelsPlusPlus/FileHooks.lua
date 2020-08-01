@@ -53,3 +53,6 @@ for _, file in ipairs(panels) do
 	Log("Mod panel %s detected", data.name)
 	AddModPanel(data)
 end
+
+
+Testing edit perms
